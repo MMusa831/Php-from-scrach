@@ -28,4 +28,16 @@ $age = 3; // Int
 $goes_to_school = true; // bool
 $cash_on_hand = 13.95; // float
 
-echo $goes_to_school;
+// var_dump($goes_to_school);
+// echo $name . ' is ' . $age . ' years old ';
+// echo "$name is $age years old";
+// echo "${name} is ${age} years old";
+
+// $x = '5' + '5';
+// echo $x;
+// var_dump($x);
+
+define('HOST', 'localhost');
+define('DB_NAME', 'php_crash');
+
+echo DB_NAME;
