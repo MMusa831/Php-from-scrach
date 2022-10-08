@@ -40,4 +40,4 @@ $cash_on_hand = 13.95; // float
 define('HOST', 'localhost');
 define('DB_NAME', 'php_crash');
 
-echo DB_NAME;
+echo HOST;
