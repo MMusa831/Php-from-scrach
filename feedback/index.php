@@ -1,5 +1,5 @@
 <?php include 'inc/header.php' ?>
-<img src="/feedback/img/bootatrap.png" class="w-25 mb-3" alt="">
+<img src="/php-crash/feedback/img/bootatrap.png" class="w-25 mb-3" alt="">
 <h2>Feedback</h2>
 <p class="lead text-center">Leave feedback for Mohamed</p>
 <form action="" class="mt-4 w-75">
